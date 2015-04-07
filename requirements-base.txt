@@ -1,0 +1,4 @@
+Django==1.7.6
+django-nose2==0.1.1
+django-tastypie==0.12.1
+python-dateutil==2.4.1
